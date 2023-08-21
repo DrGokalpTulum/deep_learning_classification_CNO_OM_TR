@@ -1,1 +1,1 @@
-# deep_learning_classification_CNO_OM_TR
+In this study,  the potential of a DL algorithms for differentiating the signal intensity of bone marrow between CNO, OM, and TR was investigated. In this repository, the classification results, and multi/binary classfication code have been made publicly available for deep learning studies. You can run the given code using Matlab 2021a.
